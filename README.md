@@ -4,9 +4,9 @@ A simple Jetpack Compose Android app for user Login & Registration with basic va
 
 ## 📸 Screenshot
 
-![App Screenshot](Images/Login.png)
-![App Screenshot](Images/SignUp.png)
-
+| Login Screen | SignUp Screen |
+|--------------|---------------------|
+| ![Login](Images/Login.png) | ![Register](Images/SignUp.png) |
 ---
 
 ## 🚀 Features
